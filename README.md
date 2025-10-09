@@ -5,7 +5,6 @@
 
 ## 🚀 About Me
 
--   Currently **building a Zoom Clone** with Next.js, Clerk, and Stream Video SDK.
 -   Exploring **AI/ML**, specifically LLMs for automated documentation.
 -   Learning **Next.js, TypeScript, PyTorch**.
 -   📧 Contact: **kennethjezreel1@gmail.com**
